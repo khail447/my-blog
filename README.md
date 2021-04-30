@@ -1,4 +1,4 @@
 # my-blog
 this blog is created using django, html and css and deployed to heroku
 here's the link below:
-https://mklblog.herokuapp.com/
+https://khail-blog.herokuapp.com/
